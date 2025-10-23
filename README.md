@@ -1,42 +1,68 @@
-Hi, I'm James Brian Ndung'u — Aspiring Software Developer | Computer Science Student
+👋 Hi — I’m James Brian Ndung'u
 
-Welcome to my GitHub! I'm a computer science student from Kenya who loves exploring how software, creativity, and problem-solving come together to build meaningful tech solutions.
+Aspiring Software Developer • Creator of GwenBooks
 
-I’m still discovering where I fit best in tech — but right now, I’m deeply focused on learning, building, and improving with every project I take on.
+<p align="center"> <img alt="GwenBooks hero" src="https://img.shields.io/badge/GwenBooks-📚-8B5CF6?style=for-the-badge&logo=bookstack" /> </p>
+About me
 
-🔭 What I’m Currently Working On
+I’m a computer science student from Kenya, learning by building. I created GwenBooks, a web app that aggregates free books from multiple public APIs so readers can find and read novels seamlessly. I’m exploring web development (Next.js + TypeScript), improving my Java skills, and figuring out where I want to focus long-term.
 
-Building GwenBooks, a modern web platform for reading and discovering books.
+🔭 Current focus
 
-Learning Java and improving my programming fundamentals.
+Building and improving GwenBooks — multi-API book search and reader.
 
-Exploring web development with Next.js and TypeScript.
+Learning Java and strengthening programming fundamentals.
 
-🌱 What I’m Learning
+Building responsive, accessible interfaces with Next.js and Tailwind CSS.
 
-Java programming and object-oriented design.
+⚙️ GwenBooks — quick snapshot
 
-Frontend development with Next.js, React, and Tailwind CSS.
+GwenBooks is a lightweight web reader that:
 
-Databases, APIs, and system design basics.
+Searches multiple free book sources (Open Library, Gutenberg, Internet Archive).
 
-The process of becoming a disciplined and consistent developer.
+Falls back across sources automatically when content is missing.
 
-⚡ Projects You Should Check Out
-Project	Description	Tech Stack
-GwenBooks	Multi-API book search, seamless reading experience, and intelligent source fallback	Next.js • TypeScript • Tailwind CSS • Google Books API • Open Library API • Gutenberg API • Vercel
-Portfolio Website	My personal portfolio showcasing projects	Next.js • Tailwind CSS
-📫 Let’s Connect!
+Provides an in-app reader when plain text is available, or links to the original source when needed.
 
-Email: [jamesbriandungu@gmail.com
-]
+Try it: https://gwen-books.vercel.app
 
-❤️ What I Value
+🛠️ Tech stack (what I use)
 
-Faith + Growth: Letting purpose guide my progress.
+Frontend / Fullstack: Next.js • React • TypeScript • Tailwind CSS
 
-Learning by Building: I believe consistency beats talent.
+APIs: Open Library • Gutenberg (Gutendex) • Internet Archive
 
-Honesty & Simplicity: Staying true to where I am in the journey.
+DB / Backend: Neon Postgres • Drizzle ORM (experimenting)
 
-“I may not have it all figured out yet — but I’m building something real, one project at a time.”
+Deploy / Hosting: Vercel
+
+📂 Selected Projects
+Project	Short description	Tech
+GwenBooks	Multi-API book search + reader; smart fallback for missing content	Next.js • TypeScript • Tailwind CSS • OpenLibrary • Gutenberg • Internet Archive
+Portfolio	Personal portfolio (this repo)	Next.js • Tailwind CSS
+📚 What I'm learning
+
+Java — core language and OOP.
+
+Fullstack web — SSR & API design with Next.js.
+
+Databases and ORMs — Neon Postgres, Drizzle.
+
+Best practices — testing, accessibility, and deploy pipelines.
+
+📫 Contact
+
+Email: jamesbriandungu@gmail.com
+
+Website / App: https://gwen-books.vercel.app
+
+💬 Values & approach
+
+I prefer learning by building — each project teaches something new.
+
+I aim for honesty in my profile and project descriptions. If something is experimental, I say so.
+
+I care about accessibility, simplicity, and iterative improvement.
+
+“I may not have everything figured out yet — but I’m building, learning, and improving every day.”
