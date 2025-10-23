@@ -1,52 +1,42 @@
-# Hi, I'm James Brian Ndung'u — Cloud Engineer |  DevOps Engineer | Networking and security Enthusiast  
+Hi, I'm James Brian Ndung'u — Aspiring Software Developer | Computer Science Student
 
-Welcome to my GitHub! I'm a passionate and driven computer scientist from Kenya with a vision to build innovative, ethical, and scalable tech solutions that shape the future.
+Welcome to my GitHub! I'm a computer science student from Kenya who loves exploring how software, creativity, and problem-solving come together to build meaningful tech solutions.
 
----
+I’m still discovering where I fit best in tech — but right now, I’m deeply focused on learning, building, and improving with every project I take on.
 
-### 🔭 What I’m Currently Working On
+🔭 What I’m Currently Working On
 
-- Mastering **Cloud Engineering**, DevOps, and AI Integration.
-- Building a **Catholic Music App** using Flutter + Firebase + ML Kit.
-- Exploring **network engineering** with Cisco Packet Tracer.
-- **Devopsifying** software applications.
+Building GwenBooks, a modern web platform for reading and discovering books.
 
----
+Learning Java and improving my programming fundamentals.
 
-### 🌱 What I’m Learning
+Exploring web development with Next.js and TypeScript.
 
-- **DevOps technologies with AWS, Ci/Cd, Docker, Kubernetes, Terraform, prometheus and grafana**
-- **Backend Dev with Spring Boot, Flask, and Node.js**
-- **
-- **Database Design, Normalization, and Cloud Storage**
-- **Cybersecurity, Networking concepts**
+🌱 What I’m Learning
 
----
+Java programming and object-oriented design.
 
-### ⚡ Projects You Should Check Out
+Frontend development with Next.js, React, and Tailwind CSS.
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **GwenBooks** | Multi-API book search, seamless reading experience, and intelligent source fallback | Next.js • TypeScript • Tailwind CSS • Google Books API • Open Library API • Gutenberg API • Edge Functions • Vercel |
-| **Portfolio Website** | My personal website showcasing projects | Next.js, TailwindCSS |
+Databases, APIs, and system design basics.
 
----
+The process of becoming a disciplined and consistent developer.
 
-### 📫 Let’s Connect!
+⚡ Projects You Should Check Out
+Project	Description	Tech Stack
+GwenBooks	Multi-API book search, seamless reading experience, and intelligent source fallback	Next.js • TypeScript • Tailwind CSS • Google Books API • Open Library API • Gutenberg API • Vercel
+Portfolio Website	My personal portfolio showcasing projects	Next.js • Tailwind CSS
+📫 Let’s Connect!
 
-- Email: [jamesbriandungu@gmail.com]
-  
+Email: [jamesbriandungu@gmail.com
+]
 
----
+❤️ What I Value
 
-### ❤️ Values I Stand For
+Faith + Growth: Letting purpose guide my progress.
 
-- **Faith + Tech**: Merging Catholic values with ethical tech development.
-- **Discipline & Consistency**: Daily learning, building, and reflecting.
-- **Open Source & Mentorship**: Contributing and guiding new learners.
+Learning by Building: I believe consistency beats talent.
 
----
+Honesty & Simplicity: Staying true to where I am in the journey.
 
-> “Your skills are seeds — plant them now, water them daily, and the future will bloom with your greatness.”  
-
----
+“I may not have it all figured out yet — but I’m building something real, one project at a time.”
