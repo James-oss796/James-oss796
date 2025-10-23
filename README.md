@@ -1,4 +1,4 @@
-👋 Hi — I’m James Brian Ndung'u
+# Hi, I'm James Brian Ndung'u — Software Developer | Computer Scientist | Tech Enthusiast  
 
 Aspiring Software Developer • Creator of GwenBooks
 
@@ -7,25 +7,38 @@ About me
 
 I’m a computer science student from Kenya, learning by building. I created GwenBooks, a web app that aggregates free books from multiple public APIs so readers can find and read novels seamlessly. I’m exploring web development (Next.js + TypeScript), improving my Java skills, and figuring out where I want to focus long-term.
 
-🔭 Current focus
+- Developing **GwenBooks** — a full-stack web app that sources novels from multiple free APIs (Gutenberg, OpenLibrary, Internet Archive) for seamless online reading.
+- Strengthening my skills in **Next.js**, TypeScript, and full-stack web development.
+- Learning **Java** and exploring backend concepts for building robust systems.
 
 Building and improving GwenBooks — multi-API book search and reader.
 
 Learning Java and strengthening programming fundamentals.
 
-Building responsive, accessible interfaces with Next.js and Tailwind CSS.
+- **Advanced Web Development — Next.js, React, APIs, and Databases (Neon + Drizzle ORM)**
+- **Java Programming — mastering OOP and backend logic**
+- **
+- **Cloud Deployment & DevOps Basics — deploying projects on Vercel and understanding CI/CD**
+- **Software Design Principles and clean code architecture**
+- **Computer Networking concepts**
 
 ⚙️ GwenBooks — quick snapshot
 
 GwenBooks is a lightweight web reader that:
 
-Searches multiple free book sources (Open Library, Gutenberg, Internet Archive).
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------------|
+| **GwenBooks** | Multi-API book search, intelligent source fallback, and immersive reading experience | Next.js • TypeScript • Tailwind CSS • Open Library API • Gutenberg API • Internet Archive API • Neon DB • Vercel | gwen-books.vercel.app |
+| **Portfolio Website** | My personal website showcasing projects | Next.js, TailwindCSS | myportfolio.vercel.app |
+| **Java** | My ongoing Java learning and algorithm practice | Java | null |
 
 Falls back across sources automatically when content is missing.
 
 Provides an in-app reader when plain text is available, or links to the original source when needed.
 
-Try it: https://gwen-books.vercel.app
+- Email: [jamesbriandungu@gmail.com]
+- tiktok [ @ggwen_254]
+  
 
 🛠️ Tech stack (what I use)
 
