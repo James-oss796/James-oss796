@@ -27,9 +27,8 @@ Welcome to my GitHub! I'm a passionate and driven computer scientist from Kenya 
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **Catholic Music App** | Personalized playlists, Firebase auth, ML Kit lyrics reader | Flutter, Firebase, ML Kit |
+| **GwenBooks** | Multi-API book search, seamless reading experience, and intelligent source fallback | Next.js • TypeScript • Tailwind CSS • Google Books API • Open Library API • Gutenberg API • Edge Functions • Vercel |
 | **Portfolio Website** | My personal website showcasing projects | Next.js, TailwindCSS |
-| **Cloud AI System** *(coming soon)* | Scalable ML APIs for real-world tasks | AWS Lambda, Python, Hugging Face |
 
 ---
 
