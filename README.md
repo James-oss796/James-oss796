@@ -1,4 +1,4 @@
-# Hi, I'm James Brian Ndung'u — Cloud Engineer |  DevOps Engineer | Networking and security Enthusiast  
+# Hi, I'm James Brian Ndung'u — Software Developer | Computer Scientist | Tech Enthusiast  
 
 Welcome to my GitHub! I'm a passionate and driven computer scientist from Kenya with a vision to build innovative, ethical, and scalable tech solutions that shape the future.
 
@@ -6,36 +6,37 @@ Welcome to my GitHub! I'm a passionate and driven computer scientist from Kenya 
 
 ### 🔭 What I’m Currently Working On
 
-- Mastering **Cloud Engineering**, DevOps, and AI Integration.
-- Building a **Catholic Music App** using Flutter + Firebase + ML Kit.
-- Exploring **network engineering** with Cisco Packet Tracer.
-- **Devopsifying** software applications.
+- Developing **GwenBooks** — a full-stack web app that sources novels from multiple free APIs (Gutenberg, OpenLibrary, Internet Archive) for seamless online reading.
+- Strengthening my skills in **Next.js**, TypeScript, and full-stack web development.
+- Learning **Java** and exploring backend concepts for building robust systems.
 
 ---
 
 ### 🌱 What I’m Learning
 
-- **DevOps technologies with AWS, Ci/Cd, Docker, Kubernetes, Terraform, prometheus and grafana**
-- **Backend Dev with Spring Boot, Flask, and Node.js**
+- **Advanced Web Development — Next.js, React, APIs, and Databases (Neon + Drizzle ORM)**
+- **Java Programming — mastering OOP and backend logic**
 - **
-- **Database Design, Normalization, and Cloud Storage**
-- **Cybersecurity, Networking concepts**
+- **Cloud Deployment & DevOps Basics — deploying projects on Vercel and understanding CI/CD**
+- **Software Design Principles and clean code architecture**
+- **Computer Networking concepts**
 
 ---
 
 ### ⚡ Projects You Should Check Out
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Catholic Music App** | Personalized playlists, Firebase auth, ML Kit lyrics reader | Flutter, Firebase, ML Kit |
-| **Portfolio Website** | My personal website showcasing projects | Next.js, TailwindCSS |
-| **Cloud AI System** *(coming soon)* | Scalable ML APIs for real-world tasks | AWS Lambda, Python, Hugging Face |
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------------|
+| **GwenBooks** | Multi-API book search, intelligent source fallback, and immersive reading experience | Next.js • TypeScript • Tailwind CSS • Open Library API • Gutenberg API • Internet Archive API • Neon DB • Vercel | gwen-books.vercel.app |
+| **Portfolio Website** | My personal website showcasing projects | Next.js, TailwindCSS | myportfolio.vercel.app |
+| **Java** | My ongoing Java learning and algorithm practice | Java | null |
 
 ---
 
 ### 📫 Let’s Connect!
 
 - Email: [jamesbriandungu@gmail.com]
+- tiktok [ @ggwen_254]
   
 
 ---
