@@ -1,6 +1,6 @@
-# Hi, I'm James Brian Ndung'u — Software Developer | Computer Scientist | Tech Enthusiast  
-
-Aspiring Software Developer • Creator of GwenBooks
+# Hi, I'm James Brian Ndung'u — Software Developer | Network and cloud enthusiast | Computer Scientist | Tech Enthusiast overall  
+Aspiring network and cloud engineer • Network engineering, software defined networks, cloud engineering, wireless and mobility networks.
+I love Software Developement • Creator of GwenBooks
 
 <p align="center"> <img alt="GwenBooks hero" src="https://img.shields.io/badge/GwenBooks-📚-8B5CF6?style=for-the-badge&logo=bookstack" /> </p>
 About me
