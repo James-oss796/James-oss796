@@ -2,7 +2,7 @@
 Aspiring network and cloud engineer • Network engineering, software defined networks, cloud engineering, wireless and mobility networks.
 I love Software Developement • Creator of GwenBooks
 
-<p align="center"> <img alt="GwenBooks hero" src="https://img.shields.io/badge/GwenBooks-📚-8B5CF6?style=for-the-badge&logo=bookstack" /> </p>
+<p align="center"> <img alt="GwenBooks hero" src="https://gwen-books.vercel.app" /> </p>
 About me
 
 I’m a computer science student from Kenya, learning by building. I created GwenBooks, a web app that aggregates free books from multiple public APIs so readers can find and read novels seamlessly. I’m exploring web development (Next.js + TypeScript), improving my Java skills, and figuring out where I want to focus long-term.
