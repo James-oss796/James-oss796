@@ -505,9 +505,21 @@ I'm interested in the situations where verifiable shared state and smart contrac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=James-oss796&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170">
+# GitHub activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-oss796&layout=compact&hide_border=true&theme=transparent" height="170">
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=James-oss796&theme=transparent&hide_border=true" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
+
+</div>
 
 <br><br>
 
