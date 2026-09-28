@@ -20,6 +20,10 @@
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
+<a href="https://www.linkedin.com/in/jamesbrian254">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://gwen-books.vercel.app">
 <img src="https://img.shields.io/badge/GwenBooks-Live-2563EB?style=for-the-badge" />
 </a>
@@ -44,7 +48,7 @@
         │   I don't just want to write code.               │
         │                                                   │
         │   I want to understand what happens              │
-        │   after the code leaves the editor.               │
+        │   after the code leaves the editor.              │
         │                                                   │
         └───────────────────────────────────────────────────┘
 ```
@@ -435,29 +439,70 @@ That's where many of the interesting problems live.
 
 ---
 
-# Things I'm learning
+# Engineering Focus
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  BACKEND                                                   │
-│  Java → Spring Boot → Security → Databases → Testing      │
-│                                                            │
-│  INFRASTRUCTURE                                             │
-│  Linux → Docker → Networking → Deployment                  │
-│                                                            │
-│  SYSTEMS                                                   │
-│  APIs → Distributed Systems → Reliability                  │
-│                                                            │
-│  WEB3                                                      │
-│  Solidity → Smart Contracts → DApps                        │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+### Backend
 
-</div>
+* Java
+* Spring Boot
+* REST APIs
+* Spring Security
+* JWT authentication
+* PostgreSQL / MySQL
+* JPA / Hibernate
+* Testing
+
+</td>
+<td width="50%">
+
+### Infrastructure
+
+* Linux
+* Bash
+* Docker
+* Docker Compose
+* Networking
+* Git / GitHub
+* Application environments
+* Deployment fundamentals
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Systems
+
+* API design
+* Database design
+* System architecture
+* Authentication
+* Application reliability
+* Distributed systems fundamentals
+
+</td>
+<td width="50%">
+
+### Exploring Next
+
+* Cloud infrastructure
+* CI/CD
+* Kubernetes
+* Infrastructure as Code
+* Production engineering
+
+</td>
+</tr>
+</table>
+
+The goal is not to collect technologies.
+
+It's to understand **how the pieces work together**.
 
 ---
 
@@ -501,39 +546,13 @@ I'm interested in the situations where verifiable shared state and smart contrac
 
 ---
 
-# GitHub activity
-
-<div align="center">
-
-# GitHub activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=James-oss796&theme=transparent&hide_border=true" height="170" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
-
-</div>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=James-oss796&hide_border=true&theme=transparent" height="170">
-
-</div>
-
----
-
 # Contribution activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  alt="GitHub contribution activity"
+  width="90%" />
 
 </div>
 
@@ -625,6 +644,7 @@ keep building.
 
 <a href="mailto:jamesbriandungu@gmail.com">Email</a>
   ·   <a href="https://github.com/James-oss796">GitHub</a>
+  ·   <a href="https://www.linkedin.com/in/jamesbrian254">LinkedIn</a>
   ·   <a href="https://gwen-books.vercel.app">GwenBooks</a>
 
 <br><br>
