@@ -1,162 +1,231 @@
+<!-- ========================================================= -->
+
+<!--                     HERO SECTION                          -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-# James Brian Ndung'u
-
-### Software Engineer · Backend · Systems
-
-I build software to understand how systems actually work.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:2563eb&height=180&section=header&text=James%20Brian%20Ndung'u&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
-<a href="https://github.com/James-oss796">
-  <img src="https://img.shields.io/badge/GitHub-James--oss796-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-&nbsp;
-<a href="https://gwen-books.vercel.app">
-  <img src="https://img.shields.io/badge/GwenBooks-Live-111827?style=flat-square" alt="GwenBooks">
-</a>
-&nbsp;
-<a href="mailto:jamesbriandungu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&height=55&lines=Java+%2B+Spring+Boot+Developer;Backend+%7C+APIs+%7C+Databases;Building+systems%2C+not+just+screens;Exploring+Cloud%2C+DevOps+%26+Web3;Currently+turning+ideas+into+working+software..." alt="Typing animation" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=James-oss796&style=flat-square&color=111827" alt="Profile views">
+<a href="https://github.com/James-oss796">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://gwen-books.vercel.app">
+<img src="https://img.shields.io/badge/GwenBooks-Live-2563EB?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="mailto:jamesbriandungu@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=James-oss796&style=for-the-badge&color=2563EB&label=PROFILE+VISITS" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+        ┌───────────────────────────────────────────────────┐
+        │                                                   │
+        │   I don't just want to write code.               │
+        │                                                   │
+        │   I want to understand what happens              │
+        │   after the code leaves the editor.               │
+        │                                                   │
+        └───────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## A little about me
+<!-- ========================================================= -->
 
-I'm a software engineer focused mainly on **backend development and systems**.
+<!--                    QUICK INTRO                            -->
 
-Most of my work currently revolves around:
+<!-- ========================================================= -->
 
-* Java and Spring Boot
-* REST APIs and authentication
-* PostgreSQL and MySQL
-* React and Next.js
-* Docker and Linux
-* Blockchain and smart contracts
-* Building and deploying applications
+<div align="center">
 
-I learn by building things, breaking them, figuring out why they broke, and rebuilding them properly.
+## `whoami`
 
-I'm particularly interested in what happens **between the lines of code**:
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,linux,react,ts,solidity" />
 
-```text
-request
-   ↓
-HTTP
-   ↓
-API
-   ↓
-business logic
-   ↓
-database
-   ↓
-response
+<br><br>
 
-and eventually...
+**Software Engineer** focused on backend development, systems and the infrastructure around them.
 
-code
-   ↓
-container
-   ↓
-server
-   ↓
-network
-   ↓
-user
-```
+I build with **Java, Spring Boot, PostgreSQL, React, Docker and Linux**,
+while exploring **cloud, DevOps, distributed systems and blockchain**.
 
-That part of software interests me more than simply making a screen look good.
+</div>
+
+<br>
 
 ---
 
-## What I'm building
+# `$ cat /about-me.txt`
 
-### GwenBooks
+I learn by building.
 
-A multi-source digital book discovery and reading platform.
+A project usually starts with a simple question:
+
+> *"Can I actually build this?"*
+
+Then the questions get more interesting:
+
+```text
+How should the system be designed?
+        ↓
+How should the data be stored?
+        ↓
+How should the services communicate?
+        ↓
+What happens when something fails?
+        ↓
+How do I test it?
+        ↓
+How do I package it?
+        ↓
+How do I deploy it?
+```
+
+That's the direction I'm taking my engineering journey.
+
+Not just learning frameworks.
+
+Learning **systems**.
+
+---
+
+# `$ ./currently-building`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=720&height=45&lines=%24+building+backend+systems...;%24+learning+Docker+%26+Linux...;%24+connecting+APIs+to+real+databases...;%24+experimenting+with+blockchain...;%24+understanding+what+happens+under+the+hood..." alt="Current work animation" />
+
+</div>
+
+```text
+                    CURRENT DIRECTION
+
+       Software Engineering
+                │
+                ▼
+        Backend Development
+                │
+                ▼
+          Linux + Networking
+                │
+                ▼
+             Docker
+                │
+                ▼
+        Cloud Infrastructure
+                │
+                ▼
+          DevOps / Platform
+```
+
+The goal is not to collect technologies.
+
+The goal is to understand how they fit together.
+
+---
+
+# Projects
+
+## `01` — GwenBooks
+
+### A digital book discovery and reading platform
 
 **Live:** https://gwen-books.vercel.app
 
-GwenBooks started as a project for learning full-stack development and gradually became a proper application involving external APIs, authentication, databases, deployment and a real user interface.
+GwenBooks connects several public book sources through one application.
 
 ```text
-                         GwenBooks
-
-                           User
-                            │
-                            ▼
+                         USER
+                           │
+                           ▼
                     ┌──────────────┐
                     │   Next.js    │
                     │   Frontend   │
                     └──────┬───────┘
                            │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-        Open Library   Gutenberg   Internet Archive
-              │            │            │
-              └────────────┼────────────┘
                            ▼
-                    Application Logic
-                           │
-                           ▼
-                    Neon PostgreSQL
+                  ┌─────────────────┐
+                  │ Application     │
+                  │ Logic / APIs    │
+                  └───────┬─────────┘
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+       Open Library   Gutenberg   Internet Archive
+             │            │            │
+             └────────────┼────────────┘
+                          ▼
+                   ┌──────────────┐
+                   │ PostgreSQL   │
+                   │    Neon      │
+                   └──────────────┘
 ```
 
-**Built with**
+**Stack**
 
 `Next.js` `TypeScript` `React` `Tailwind CSS` `Drizzle` `PostgreSQL` `REST APIs` `Vercel`
 
----
-
-## Other things I've built
-
-| Project               | Problem                                           |
-| --------------------- | ------------------------------------------------- |
-| **PesaChain**         | Blockchain-based microfinance and loan management |
-| **AfyaFlow**          | Hospital queue and appointment management         |
-| **Attendance System** | Time and location-based student attendance        |
-| **KodiTrack**         | Rental and tenant management                      |
-| **GwenBooks**         | Multi-source book discovery and reading           |
-
-I try to make projects solve an actual problem instead of creating another `todo-app-final-final-2`.
+<a href="https://gwen-books.vercel.app">
+<img src="https://img.shields.io/badge/OPEN_GWENBOOKS-2563EB?style=for-the-badge" />
+</a>
 
 ---
 
-## PesaChain
+## `02` — PesaChain
 
-One of my current larger projects.
+### Blockchain-based microfinance and loan management
 
-The idea is to combine a conventional backend with blockchain where blockchain actually adds value.
+A project exploring how blockchain can fit into a conventional software architecture.
 
 ```text
-                     Borrower
-                        │
-                        ▼
-                 React / Vite
-                        │
-                REST API / JWT
-                        │
-                        ▼
-                Spring Boot API
-                   /         \
-                  /           \
-                 ▼             ▼
-          PostgreSQL       Smart Contract
-                              │
-                              ▼
-                           Ethereum
+                         BORROWER
+                            │
+                            ▼
+                     React / Vite
+                            │
+                       REST / JWT
+                            │
+                            ▼
+                     Spring Boot
+                       /       \
+                      /         \
+                     ▼           ▼
+              PostgreSQL     Smart Contract
+                                  │
+                                  ▼
+                               Ethereum
 ```
 
-The interesting part for me isn't simply writing Solidity.
+The interesting question isn't:
 
-It's understanding **where blockchain belongs in a normal software architecture** and where it doesn't.
+> "Can blockchain be used?"
+
+It is:
+
+> "Where does blockchain actually make sense?"
 
 **Stack**
 
@@ -164,272 +233,390 @@ It's understanding **where blockchain belongs in a normal software architecture*
 
 ---
 
-## The stack
+## `03` — AfyaFlow
 
-I don't consider every technology below an equal level of expertise. Some are things I use regularly; others are technologies I'm actively learning.
+### Hospital queue and appointment management
+
+A full-stack system focused on real-world workflow rather than a collection of disconnected CRUD pages.
+
+```text
+Reception
+    │
+    ├───────────────┐
+    ▼               ▼
+Patients       Appointments
+    │               │
+    └───────┬───────┘
+            ▼
+       Spring Boot
+            │
+            ▼
+          MySQL
+```
+
+**Stack**
+
+`Spring Boot` `Spring Security` `MySQL` `React` `Vite` `Tailwind` `Docker`
+
+---
+
+## `04` — Attendance System
+
+A student attendance system built around actual business rules.
+
+The interesting part isn't the attendance button.
+
+It's the logic behind it:
+
+```text
+Lecture starts
+      │
+      ▼
+Attendance opens
+      │
+      │   students can mark attendance
+      │
+      ▼
+45 minutes after lecture ends
+      │
+      ▼
+Attendance closes
+```
+
+The system also explores location-aware attendance and a frontend architecture that can later connect to a backend.
+
+**Stack**
+
+`React` `Vite` `Tailwind CSS`
+
+---
+
+## `05` — KodiTrack
+
+Rental management for landlords, houses and tenants.
+
+The idea is to turn the usual spreadsheet-style rental workflow into a proper application.
+
+```text
+Landlord
+   │
+   ├── Properties
+   ├── Houses
+   ├── Tenants
+   ├── Rent
+   └── Payments
+          │
+          ▼
+    Backend API
+          │
+          ▼
+      PostgreSQL
+```
+
+**Stack**
+
+`Spring Boot` `PostgreSQL` `Docker`
+
+---
+
+# Technology
+
+<div align="center">
 
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,bash,html,css" />
 
+<br><br>
+
 `SQL` · `Solidity`
+
+<br><br>
 
 ### Backend
 
 <img src="https://skillicons.dev/icons?i=spring" />
 
+<br>
+
 `Spring Boot` · `Spring Security` · `Spring Data JPA` · `Hibernate`
 `REST APIs` · `JWT` · `Maven` · `JUnit`
+
+<br><br>
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 
+<br>
+
 `React` · `Next.js` · `Vite` · `Tailwind CSS` · `shadcn/ui`
+
+<br><br>
 
 ### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
+<br>
+
 `PostgreSQL` · `MySQL` · `Neon` · `Drizzle ORM` · `Hibernate` · `pgAdmin`
 
-### Development & Infrastructure
+<br><br>
+
+### Infrastructure & Development
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,idea" />
 
+<br>
+
 `Linux` · `Docker` · `Docker Compose` · `Git` · `GitHub`
 `VS Code` · `IntelliJ IDEA` · `Postman` · `Docker Desktop`
+
+<br><br>
 
 ### Web3
 
 <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 
+<br>
+
 `Solidity` · `Ethereum` · `Hardhat` · `Ganache`
 `MetaMask` · `Web3.js` · `OpenZeppelin` · `Remix`
 
----
-
-## How I currently think about software
-
-I'm gradually moving from:
-
-```text
-"How do I make this feature work?"
-```
-
-towards:
-
-```text
-"How does the whole system behave?"
-```
-
-That means learning to think about:
-
-```text
-             ┌───────────────┐
-             │    Client     │
-             └───────┬───────┘
-                     │
-                  HTTP
-                     │
-                     ▼
-             ┌───────────────┐
-             │      API      │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    Backend    │
-             └───────┬───────┘
-                     │
-             ┌───────┴────────┐
-             ▼                ▼
-        ┌─────────┐     ┌───────────┐
-        │ Database│     │ External  │
-        │         │     │ Services  │
-        └─────────┘     └───────────┘
-             │
-             ▼
-        Docker / Linux
-             │
-             ▼
-        Deployment
-```
-
-The goal is to understand each boundary:
-
-**HTTP → API → application → database → infrastructure**
-
-rather than treating the framework as a black box.
+</div>
 
 ---
 
-## Currently working on
+# How I see a system
+
+A feature is only one small part of the picture.
 
 ```text
-Backend Engineering
-        │
-        ├── Java
-        ├── Spring Boot
-        ├── Spring Security
-        ├── REST APIs
-        ├── PostgreSQL
-        └── Testing
-
-Infrastructure
-        │
-        ├── Linux
-        ├── Docker
-        └── Docker Compose
-
-Web3
-        │
-        ├── Solidity
-        ├── Smart Contracts
-        ├── Ethereum
-        └── DApp integration
+                          USER
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  FRONTEND   │
+                    │ React / Next│
+                    └──────┬──────┘
+                           │
+                          HTTP
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │     API     │
+                    │ REST / JWT  │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   BACKEND   │
+                    │Spring Boot  │
+                    └──────┬──────┘
+                           │
+                    ┌──────┴──────┐
+                    ▼             ▼
+               PostgreSQL     External APIs
+                    │
+                    ▼
+                 Docker
+                    │
+                    ▼
+               Linux / Server
+                    │
+                    ▼
+                  User
 ```
 
-The longer-term direction is toward **cloud and DevOps**, built on top of a strong software engineering foundation.
+I'm increasingly interested in the boundaries between these components.
+
+That's where many of the interesting problems live.
 
 ---
 
-## Things I want to get better at
+# Things I'm learning
 
-Not everything has to be another framework.
-
-The areas I'm deliberately working toward are:
+<div align="center">
 
 ```text
-Software Engineering
-        ↓
-Backend Systems
-        ↓
-Linux + Networking
-        ↓
-Containers
-        ↓
-Cloud Infrastructure
-        ↓
-CI/CD
-        ↓
-Distributed Systems
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  BACKEND                                                   │
+│  Java → Spring Boot → Security → Databases → Testing      │
+│                                                            │
+│  INFRASTRUCTURE                                             │
+│  Linux → Docker → Networking → Deployment                  │
+│                                                            │
+│  SYSTEMS                                                   │
+│  APIs → Distributed Systems → Reliability                  │
+│                                                            │
+│  WEB3                                                      │
+│  Solidity → Smart Contracts → DApps                        │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
-The aim is to understand the entire path from:
-
-```text
-        "someone clicked a button"
-                    ↓
-              HTTP request
-                    ↓
-                backend
-                    ↓
-                database
-                    ↓
-              infrastructure
-                    ↓
-              actual server
-```
+</div>
 
 ---
 
-## Some engineering questions I keep coming back to
+# Engineering questions
 
 <details>
-<summary><b>What happens when the database goes down?</b></summary>
+<summary><b>What actually happens after I press "Login"?</b></summary>
 
-The application shouldn't simply become a mystery.
+Browser → DNS → network → HTTP → API → authentication → database → response → browser.
 
-I'm interested in understanding connection pools, transactions, retries, failure handling, logging and how the application behaves when dependencies are unavailable.
+I want to understand every step rather than treating authentication as a library call.
 
 </details>
 
 <details>
-<summary><b>What actually happens when an API receives a request?</b></summary>
+<summary><b>What happens when the database disappears?</b></summary>
 
-From DNS and TCP/HTTP through routing, authentication, controllers, services, database queries and the response sent back to the client.
+Connection pools, timeouts, transactions, retries, error handling, logging and application behaviour all become important.
+
+This is where an application stops being a tutorial and starts behaving like a system.
 
 </details>
 
 <details>
 <summary><b>Why Docker?</b></summary>
 
-Not just because "Docker is used in industry."
+Because "it works on my machine" is not a deployment strategy.
 
-I want to understand isolation, images, containers, networking, volumes, environment configuration and why containerisation changes how applications are developed and deployed.
+I'm learning containers, images, networking, volumes, environment configuration and how these pieces change the development workflow.
 
 </details>
 
 <details>
-<summary><b>Where does blockchain actually help?</b></summary>
+<summary><b>Where does blockchain belong?</b></summary>
 
-A blockchain shouldn't be added to an application just because it sounds impressive.
+Not everywhere.
 
-I'm interested in understanding the cases where decentralised state, verifiability and smart contracts provide something a conventional database cannot provide as effectively.
+I'm interested in the situations where verifiable shared state and smart contracts provide something useful beyond what a conventional backend and database can provide.
 
 </details>
 
 ---
 
-## GitHub activity
-
-I want this profile to eventually tell a story through the work itself.
+# GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=James-oss796&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=James-oss796&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-oss796&layout=compact&hide_border=true&theme=transparent" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=James-oss796&layout=compact&hide_border=true&theme=transparent" height="170">
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=James-oss796&hide_border=true&theme=transparent">
+<img src="https://streak-stats.demolab.com?user=James-oss796&hide_border=true&theme=transparent" height="170">
 
 </div>
 
 ---
 
-## Outside the code
+# Contribution activity
 
-Software isn't the only thing I work on.
+<div align="center">
 
-I'm interested in technology broadly, especially the point where **software, networks and real-world systems** meet.
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
 
-I also work on projects involving design, documentation and community activities. Figma and Canva occasionally make appearances in a repository that was supposed to be "backend only."
+</div>
 
 ---
 
-## A small rule I try to follow
+# The part I'm trying to improve
+
+<div align="center">
 
 ```text
-Don't just copy the solution.
+2024
+  │
+  ├── Learn syntax
+  │
+  ▼
+2025
+  │
+  ├── Build applications
+  │
+  ▼
+2026
+  │
+  ├── Understand architecture
+  ├── Build backend systems
+  ├── Work with databases
+  ├── Use Docker / Linux
+  └── Explore blockchain
+  │
+  ▼
+NEXT
+  │
+  ├── Cloud
+  ├── CI/CD
+  ├── Distributed systems
+  └── Production engineering
+```
 
-Understand why it works.
+</div>
 
-Then build it again without the tutorial.
+I'm trying to move from **"I can make it work"** to **"I understand why it works."**
+
+---
+
+# A few things outside the stack
+
+I also spend time around:
+
+`Networking` · `System Design` · `UI Design` · `Technical Documentation`
+
+And occasionally:
+
+`Figma` · `Canva`
+
+because apparently even backend engineers sometimes have to make things look good.
+
+---
+
+# `$ git status`
+
+```text
+On branch main
+
+Your engineering journey is still in progress.
+
+modified:
+    backend-skills
+    system-design
+    linux
+    cloud-knowledge
+
+untracked:
+    distributed-systems
+    production-experience
+
+nothing to commit yet.
+
+keep building.
 ```
 
 ---
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1d4ed8,100:111827&height=120&section=footer" width="100%"/>
+
 ### James Brian Ndung'u
 
-`Software Engineer` · `Backend` · `Systems` · `Cloud`
-
-<br>
+`Software Engineer` · `Backend` · `Systems`
 
 <a href="mailto:jamesbriandungu@gmail.com">Email</a>
-  ·   <a href="https://github.com/James-oss796">GitHub</a>
-  ·   <a href="https://gwen-books.vercel.app">GwenBooks</a>
+  ·   <a href="https://github.com/James-oss796">GitHub</a>
+  ·   <a href="https://gwen-books.vercel.app">GwenBooks</a>
 
 <br><br>
 
-<sub>Still building.</sub>
+<sub>Still building. Still figuring things out.</sub>
 
 </div>
