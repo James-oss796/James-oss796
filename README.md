@@ -161,33 +161,6 @@ The goal is to understand how they fit together.
 
 GwenBooks connects several public book sources through one application.
 
-```text
-                         USER
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   Next.js    │
-                    │   Frontend   │
-                    └──────┬───────┘
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ Application     │
-                  │ Logic / APIs    │
-                  └───────┬─────────┘
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-       Open Library   Gutenberg   Internet Archive
-             │            │            │
-             └────────────┼────────────┘
-                          ▼
-                   ┌──────────────┐
-                   │ PostgreSQL   │
-                   │    Neon      │
-                   └──────────────┘
-```
-
 **Stack**
 
 `Next.js` `TypeScript` `React` `Tailwind CSS` `Drizzle` `PostgreSQL` `REST APIs` `Vercel`
@@ -203,25 +176,6 @@ GwenBooks connects several public book sources through one application.
 ### Blockchain-based microfinance and loan management
 
 A project exploring how blockchain can fit into a conventional software architecture.
-
-```text
-                         BORROWER
-                            │
-                            ▼
-                     React / Vite
-                            │
-                       REST / JWT
-                            │
-                            ▼
-                     Spring Boot
-                       /       \
-                      /         \
-                     ▼           ▼
-              PostgreSQL     Smart Contract
-                                  │
-                                  ▼
-                               Ethereum
-```
 
 The interesting question isn't:
 
@@ -243,21 +197,6 @@ It is:
 
 A full-stack system focused on real-world workflow rather than a collection of disconnected CRUD pages.
 
-```text
-Reception
-    │
-    ├───────────────┐
-    ▼               ▼
-Patients       Appointments
-    │               │
-    └───────┬───────┘
-            ▼
-       Spring Boot
-            │
-            ▼
-          MySQL
-```
-
 **Stack**
 
 `Spring Boot` `Spring Security` `MySQL` `React` `Vite` `Tailwind` `Docker`
@@ -272,21 +211,6 @@ The interesting part isn't the attendance button.
 
 It's the logic behind it:
 
-```text
-Lecture starts
-      │
-      ▼
-Attendance opens
-      │
-      │   students can mark attendance
-      │
-      ▼
-45 minutes after lecture ends
-      │
-      ▼
-Attendance closes
-```
-
 The system also explores location-aware attendance and a frontend architecture that can later connect to a backend.
 
 **Stack**
@@ -300,22 +224,6 @@ The system also explores location-aware attendance and a frontend architecture t
 Rental management for landlords, houses and tenants.
 
 The idea is to turn the usual spreadsheet-style rental workflow into a proper application.
-
-```text
-Landlord
-   │
-   ├── Properties
-   ├── Houses
-   ├── Tenants
-   ├── Rent
-   └── Payments
-          │
-          ▼
-    Backend API
-          │
-          ▼
-      PostgreSQL
-```
 
 **Stack**
 
