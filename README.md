@@ -394,20 +394,6 @@ I want this profile to eventually tell a story through the work itself.
 
 ---
 
-## Contribution graph
-
-I want this section to become less of a decoration and more of a record of actually building things.
-
-<!-- Replace this with your generated contribution snake once the GitHub Action is configured -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
-
-</div>
-
----
-
 ## Outside the code
 
 Software isn't the only thing I work on.
