@@ -203,7 +203,7 @@ A full-stack system focused on real-world workflow rather than a collection of d
 
 ---
 
-## `04` — Attendance System
+## `04` — AttendEase
 
 A student attendance system built around actual business rules.
 
@@ -463,44 +463,6 @@ I'm interested in the situations where verifiable shared state and smart contrac
   width="90%" />
 
 </div>
-
----
-
-# The part I'm trying to improve
-
-<div align="center">
-
-```text
-2024
-  │
-  ├── Learn syntax
-  │
-  ▼
-2025
-  │
-  ├── Build applications
-  │
-  ▼
-2026
-  │
-  ├── Understand architecture
-  ├── Build backend systems
-  ├── Work with databases
-  ├── Use Docker / Linux
-  └── Explore blockchain
-  │
-  ▼
-NEXT
-  │
-  ├── Cloud
-  ├── CI/CD
-  ├── Distributed systems
-  └── Production engineering
-```
-
-</div>
-
-I'm trying to move from **"I can make it work"** to **"I understand why it works."**
 
 ---
 
