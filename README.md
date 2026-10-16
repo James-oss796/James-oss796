@@ -32,6 +32,10 @@
 <img src="https://img.shields.io/badge/Echo_Chatroom-Live-16A34A?style=for-the-badge" />
 </a>
 &nbsp;
+<a href="https://koditrack.koditrack.workers.dev">
+<img src="https://img.shields.io/badge/KodiTrack-Live-F59E0B?style=for-the-badge" />
+</a>
+&nbsp;
 <a href="mailto:jamesbriandungu@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -75,10 +79,14 @@ I build with **Java, Spring Boot, PostgreSQL, React, Docker, and Linux**, while 
 
 <br>
 
+<a href="https://koditrack.koditrack.workers.dev">
+<img src="https://img.shields.io/badge/TRY_KODITRACK-F59E0B?style=for-the-badge" />
+</a>
+&nbsp;
 <a href="https://echo-chatroom-n9ds.onrender.com/">
 <img src="https://img.shields.io/badge/TRY_ECHO_CHATROOM-16A34A?style=for-the-badge" />
 </a>
-
+&nbsp;
 <a href="https://gwen-books.vercel.app">
 <img src="https://img.shields.io/badge/EXPLORE_GWENBOOKS-2563EB?style=for-the-badge" />
 </a>
@@ -204,7 +212,36 @@ The project takes the application beyond the local development environment and m
 
 ---
 
-## `03` — PesaChain
+## `03` — KodiTrack
+
+### Rental property and tenancy management
+
+**Live:** [koditrack.koditrack.workers.dev](https://koditrack.koditrack.workers.dev)
+
+KodiTrack is a rental management application designed to help landlords organize property information, units, tenants, leases, rent charges, payments, and maintenance workflows in one place.
+
+**Features**
+
+* **Property management** — Organize rental properties and their units.
+* **Unit management** — Track rental units and their occupancy-related information.
+* **Tenant records** — Maintain tenant information.
+* **Lease management** — Organize tenancy agreements and lease statuses.
+* **Rent tracking** — Manage rent charges and payment records.
+* **Maintenance workflows** — Record maintenance requests and work orders.
+* **Applications and vendors** — Organize rental applications and vendor information.
+* **Dashboard and reporting** — Access a central view of rental operations.
+
+**Stack**
+
+`React` `TypeScript` `Vite` `Hono` `Cloudflare Workers` `Cloudflare D1` `SQLite` `REST APIs`
+
+<a href="https://koditrack.koditrack.workers.dev">
+<img src="https://img.shields.io/badge/OPEN_KODITRACK-F59E0B?style=for-the-badge" />
+</a>
+
+---
+
+## `04` — PesaChain
 
 ### Blockchain-based microfinance and loan management
 
@@ -224,7 +261,7 @@ It is:
 
 ---
 
-## `04` — AfyaFlow
+## `05` — AfyaFlow
 
 ### Hospital queue and appointment management
 
@@ -236,7 +273,7 @@ A full-stack system focused on real-world hospital workflows rather than a colle
 
 ---
 
-## `05` — AttendEase
+## `06` — AttendEase
 
 ### Student attendance management
 
@@ -247,18 +284,6 @@ The interesting part isn't the attendance button. It's the logic behind it, incl
 **Stack**
 
 `React` `Vite` `Tailwind CSS`
-
----
-
-## `06` — KodiTrack
-
-### Rental management for landlords and tenants
-
-The idea is to turn the usual spreadsheet-style rental workflow into a proper application for managing rental properties and tenant information.
-
-**Stack**
-
-`Spring Boot` `PostgreSQL` `Docker`
 
 ---
 
@@ -316,7 +341,7 @@ The idea is to turn the usual spreadsheet-style rental workflow into a proper ap
 
 `Linux` · `Docker` · `Docker Compose` · `Git` · `GitHub`
 
-`VS Code` · `IntelliJ IDEA` · `Postman` · `Docker Desktop` · `Render` · `Vercel`
+`VS Code` · `IntelliJ IDEA` · `Postman` · `Docker Desktop` · `Render` · `Vercel` · `Cloudflare Workers`
 
 <br><br>
 
@@ -552,6 +577,7 @@ keep building.
   ·   <a href="https://www.linkedin.com/in/jamesbrian254">LinkedIn</a>
   ·   <a href="https://gwen-books.vercel.app">GwenBooks</a>
   ·   <a href="https://echo-chatroom-n9ds.onrender.com/">Echo Chatroom</a>
+  ·   <a href="https://koditrack.koditrack.workers.dev">KodiTrack</a>
 
 <br><br>
 
