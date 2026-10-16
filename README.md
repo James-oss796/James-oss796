@@ -1,6 +1,6 @@
 <!-- ========================================================= -->
 
-<!--                     HERO SECTION                          -->
+<!--                       HERO SECTION                        -->
 
 <!-- ========================================================= -->
 
@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&height=55&lines=Java+%2B+Spring+Boot+Developer;Backend+%7C+APIs+%7C+Databases;Building+systems%2C+not+just+screens;Exploring+Cloud%2C+DevOps+%26+Web3;Currently+turning+ideas+into+working+software..." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&height=55&lines=Java+%2B+Spring+Boot+Developer;Backend+%7C+APIs+%7C+Databases;Building+systems%2C+not+just+screens;Exploring+Cloud%2C+DevOps+%26+Web3;Building%2C+testing%2C+and+deploying+software" alt="Typing animation" />
 </a>
 
 <br><br>
@@ -26,6 +26,10 @@
 &nbsp;
 <a href="https://gwen-books.vercel.app">
 <img src="https://img.shields.io/badge/GwenBooks-Live-2563EB?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://echo-chatroom-n9ds.onrender.com/">
+<img src="https://img.shields.io/badge/Echo_Chatroom-Live-16A34A?style=for-the-badge" />
 </a>
 &nbsp;
 <a href="mailto:jamesbriandungu@gmail.com">
@@ -45,10 +49,10 @@
 ```text
         ┌───────────────────────────────────────────────────┐
         │                                                   │
-        │   I don't just want to write code.               │
+        │   I don't just want to write code.                │
         │                                                   │
-        │   I want to understand what happens              │
-        │   after the code leaves the editor.              │
+        │   I want to understand what happens               │
+        │   after the code leaves the editor.               │
         │                                                   │
         └───────────────────────────────────────────────────┘
 ```
@@ -57,28 +61,29 @@
 
 ---
 
-<!-- ========================================================= -->
-
-<!--                    QUICK INTRO                            -->
-
-<!-- ========================================================= -->
+## `$ whoami`
 
 <div align="center">
-
-## `whoami`
 
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,linux,react,ts,solidity" />
 
 <br><br>
 
-**Software Engineer** focused on backend development, systems and the infrastructure around them.
+**Software Engineer** focused on backend development, systems, and the infrastructure around them.
 
-I build with **Java, Spring Boot, PostgreSQL, React, Docker and Linux**,
-while exploring **cloud, DevOps, distributed systems and blockchain**.
-
-</div>
+I build with **Java, Spring Boot, PostgreSQL, React, Docker, and Linux**, while exploring **cloud, DevOps, distributed systems, and blockchain**.
 
 <br>
+
+<a href="https://echo-chatroom-n9ds.onrender.com/">
+<img src="https://img.shields.io/badge/TRY_ECHO_CHATROOM-16A34A?style=for-the-badge" />
+</a>
+
+<a href="https://gwen-books.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE_GWENBOOKS-2563EB?style=for-the-badge" />
+</a>
+
+</div>
 
 ---
 
@@ -157,13 +162,13 @@ The goal is to understand how they fit together.
 
 ### A digital book discovery and reading platform
 
-**Live:** https://gwen-books.vercel.app
+**Live:** [gwen-books.vercel.app](https://gwen-books.vercel.app)
 
-GwenBooks connects several public book sources through one application.
+GwenBooks brings book discovery and reading into one application by connecting public book sources.
 
 **Stack**
 
-`Next.js` `TypeScript` `React` `Tailwind CSS` `Drizzle` `PostgreSQL` `REST APIs` `Vercel`
+`Next.js` `TypeScript` `React` `Tailwind CSS` `Drizzle ORM` `PostgreSQL` `REST APIs` `Vercel`
 
 <a href="https://gwen-books.vercel.app">
 <img src="https://img.shields.io/badge/OPEN_GWENBOOKS-2563EB?style=for-the-badge" />
@@ -171,7 +176,35 @@ GwenBooks connects several public book sources through one application.
 
 ---
 
-## `02` — PesaChain
+## `02` — Echo Chatroom
+
+### A web-based chatroom application
+
+**Live:** [echo-chatroom-n9ds.onrender.com](https://echo-chatroom-n9ds.onrender.com/)
+
+Echo Chatroom is a web application built with Java and Spring Boot, with a browser-based interface for interacting with chatrooms.
+
+The project takes the application beyond the local development environment and makes it accessible through a live deployment.
+
+**What it demonstrates**
+
+* Java and Spring Boot application development.
+* Web-based client and server integration.
+* Real-time communication using WebSocket technology.
+* Frontend integration with backend endpoints.
+* Application deployment and public access.
+
+**Stack**
+
+`Java 25` `Spring Boot` `WebSocket` `REST APIs` `HTML` `CSS` `JavaScript` `Render`
+
+<a href="https://echo-chatroom-n9ds.onrender.com/">
+<img src="https://img.shields.io/badge/OPEN_LIVE_CHATROOM-16A34A?style=for-the-badge" />
+</a>
+
+---
+
+## `03` — PesaChain
 
 ### Blockchain-based microfinance and loan management
 
@@ -191,27 +224,25 @@ It is:
 
 ---
 
-## `03` — AfyaFlow
+## `04` — AfyaFlow
 
 ### Hospital queue and appointment management
 
-A full-stack system focused on real-world workflow rather than a collection of disconnected CRUD pages.
+A full-stack system focused on real-world hospital workflows rather than a collection of disconnected CRUD pages.
 
 **Stack**
 
-`Spring Boot` `Spring Security` `MySQL` `React` `Vite` `Tailwind` `Docker`
+`Spring Boot` `Spring Security` `MySQL` `React` `Vite` `Tailwind CSS` `Docker`
 
 ---
 
-## `04` — AttendEase
+## `05` — AttendEase
+
+### Student attendance management
 
 A student attendance system built around actual business rules.
 
-The interesting part isn't the attendance button.
-
-It's the logic behind it:
-
-The system also explores location-aware attendance and a frontend architecture that can later connect to a backend.
+The interesting part isn't the attendance button. It's the logic behind it, including attendance cutoffs and location-aware attendance concepts.
 
 **Stack**
 
@@ -219,11 +250,11 @@ The system also explores location-aware attendance and a frontend architecture t
 
 ---
 
-## `05` — KodiTrack
+## `06` — KodiTrack
 
-Rental management for landlords, houses and tenants.
+### Rental management for landlords and tenants
 
-The idea is to turn the usual spreadsheet-style rental workflow into a proper application.
+The idea is to turn the usual spreadsheet-style rental workflow into a proper application for managing rental properties and tenant information.
 
 **Stack**
 
@@ -252,7 +283,8 @@ The idea is to turn the usual spreadsheet-style rental workflow into a proper ap
 <br>
 
 `Spring Boot` · `Spring Security` · `Spring Data JPA` · `Hibernate`
-`REST APIs` · `JWT` · `Maven` · `JUnit`
+
+`REST APIs` · `WebSocket` · `JWT` · `Maven` · `JUnit`
 
 <br><br>
 
@@ -283,7 +315,8 @@ The idea is to turn the usual spreadsheet-style rental workflow into a proper ap
 <br>
 
 `Linux` · `Docker` · `Docker Compose` · `Git` · `GitHub`
-`VS Code` · `IntelliJ IDEA` · `Postman` · `Docker Desktop`
+
+`VS Code` · `IntelliJ IDEA` · `Postman` · `Docker Desktop` · `Render` · `Vercel`
 
 <br><br>
 
@@ -294,6 +327,7 @@ The idea is to turn the usual spreadsheet-style rental workflow into a proper ap
 <br>
 
 `Solidity` · `Ethereum` · `Hardhat` · `Ganache`
+
 `MetaMask` · `Web3.js` · `OpenZeppelin` · `Remix`
 
 </div>
@@ -310,7 +344,7 @@ A feature is only one small part of the picture.
                            ▼
                     ┌─────────────┐
                     │  FRONTEND   │
-                    │ React / Next│
+                    │ React / HTML│
                     └──────┬──────┘
                            │
                           HTTP
@@ -318,7 +352,7 @@ A feature is only one small part of the picture.
                            ▼
                     ┌─────────────┐
                     │     API     │
-                    │ REST / JWT  │
+                    │ REST / WS   │
                     └──────┬──────┘
                            │
                            ▼
@@ -329,16 +363,16 @@ A feature is only one small part of the picture.
                            │
                     ┌──────┴──────┐
                     ▼             ▼
-               PostgreSQL     External APIs
+                Database     External Services
                     │
                     ▼
-                 Docker
+                Deployment
                     │
                     ▼
-               Linux / Server
+                Linux / Server
                     │
                     ▼
-                  User
+                   USER
 ```
 
 I'm increasingly interested in the boundaries between these components.
@@ -358,11 +392,12 @@ That's where many of the interesting problems live.
 * Java
 * Spring Boot
 * REST APIs
+* WebSocket communication
 * Spring Security
 * JWT authentication
 * PostgreSQL / MySQL
 * JPA / Hibernate
-* Testing
+* Automated testing
 
 </td>
 <td width="50%">
@@ -459,8 +494,8 @@ I'm interested in the situations where verifiable shared state and smart contrac
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-  alt="GitHub contribution activity"
-  width="90%" />
+alt="GitHub contribution activity"
+width="90%" />
 
 </div>
 
@@ -476,7 +511,7 @@ And occasionally:
 
 `Figma` · `Canva`
 
-because apparently even backend engineers sometimes have to make things look good.
+because even backend engineers sometimes have to make things look good.
 
 ---
 
@@ -513,9 +548,10 @@ keep building.
 `Software Engineer` · `Backend` · `Systems`
 
 <a href="mailto:jamesbriandungu@gmail.com">Email</a>
-  ·   <a href="https://github.com/James-oss796">GitHub</a>
-  ·   <a href="https://www.linkedin.com/in/jamesbrian254">LinkedIn</a>
-  ·   <a href="https://gwen-books.vercel.app">GwenBooks</a>
+  ·   <a href="https://github.com/James-oss796">GitHub</a>
+  ·   <a href="https://www.linkedin.com/in/jamesbrian254">LinkedIn</a>
+  ·   <a href="https://gwen-books.vercel.app">GwenBooks</a>
+  ·   <a href="https://echo-chatroom-n9ds.onrender.com/">Echo Chatroom</a>
 
 <br><br>
 
