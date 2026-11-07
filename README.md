@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="./assets/github-header.svg" width="100%" alt="James Brian — Software Engineer, Backend and Systems"/>
+<img src="./assets/github-header.svg" width="100%" alt="James Brian — Software Engineer"/>
 
 <br/>
 
-**SOFTWARE ENGINEER · BACKEND · SYSTEMS**
-
-Building software that solves real problems, with an interest in the systems behind it.
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=B6FF2E&center=true&vCenter=true&width=650&height=40&lines=Java+%26+Spring+Boot+Developer;Backend+Engineer;Systems+Thinker;Building+Software+That+Matters" alt="Typing animation"/>
+</a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/jamesbrian254">
-  <img src="https://img.shields.io/badge/LINKEDIN-23262F?style=flat-square&logo=linkedin&logoColor=B6FF2E"/>
+  <img src="https://img.shields.io/badge/LinkedIn-30313A?style=flat-square&logo=linkedin&logoColor=B6FF2E"/>
 </a>
 &nbsp;
 <a href="mailto:jamesbriandungu@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-23262F?style=flat-square&logo=gmail&logoColor=B6FF2E"/>
+  <img src="https://img.shields.io/badge/Email-30313A?style=flat-square&logo=gmail&logoColor=B6FF2E"/>
 </a>
 &nbsp;
 <a href="https://github.com/James-oss796">
-  <img src="https://img.shields.io/badge/GITHUB-23262F?style=flat-square&logo=github&logoColor=B6FF2E"/>
+  <img src="https://img.shields.io/badge/GitHub-30313A?style=flat-square&logo=github&logoColor=B6FF2E"/>
 </a>
 
 </div>
@@ -34,14 +34,14 @@ Building software that solves real problems, with an interest in the systems beh
 
 ### 01 / KodiTrack
 
-**Rental property management, rethought.**
+Rental property management, rethought.
 
-A property management platform designed to bring landlords, tenants, properties and rental operations into one system.
+A platform bringing landlords, tenants, properties and rental operations into one system.
 
 `React` `TypeScript` `Hono` `Cloudflare D1`
 
 <a href="https://koditrack.koditrack.workers.dev">
-  <img src="https://img.shields.io/badge/EXPLORE_KODITRACK-B6FF2E?style=for-the-badge&logoColor=23262F"/>
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-30313A?style=flat-square&logoColor=B6FF2E"/>
 </a>
 
 </td>
@@ -49,14 +49,14 @@ A property management platform designed to bring landlords, tenants, properties 
 
 ### 02 / GwenBooks
 
-**A better way to discover and read books.**
+A better way to discover and read books.
 
 A digital book discovery and reading platform combining modern web technologies with persistent data and application services.
 
 `Next.js` `TypeScript` `PostgreSQL` `Drizzle`
 
 <a href="https://gwen-books.vercel.app">
-  <img src="https://img.shields.io/badge/EXPLORE_GWENBOOKS-B6FF2E?style=for-the-badge&logoColor=23262F"/>
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-30313A?style=flat-square"/>
 </a>
 
 </td>
@@ -66,14 +66,14 @@ A digital book discovery and reading platform combining modern web technologies 
 
 ### 03 / Echo Chatroom
 
-**Real-time communication on the web.**
+Real-time communication on the web.
 
-A Java-based chat application exploring WebSocket communication and the integration of frontend clients with backend services.
+A Java-based chat application exploring WebSocket communication and integration between frontend clients and backend services.
 
 `Java` `Spring Boot` `WebSocket` `JavaScript`
 
 <a href="https://echo-chatroom-n9ds.onrender.com/">
-  <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-B6FF2E?style=for-the-badge&logoColor=23262F"/>
+  <img src="https://img.shields.io/badge/VIEW_LIVE_DEMO-30313A?style=flat-square"/>
 </a>
 
 </td>
@@ -81,7 +81,7 @@ A Java-based chat application exploring WebSocket communication and the integrat
 
 ### 04 / PesaChain
 
-**Blockchain meets microfinance.**
+Blockchain meets microfinance.
 
 Exploring how smart contracts and conventional backend architecture can work together to support transparent loan management.
 
@@ -99,19 +99,19 @@ Exploring how smart contracts and conventional backend architecture can work tog
 
 **BACKEND & LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,c" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,c"/>
 
 <br/><br/>
 
 **FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind"/>
 
 <br/><br/>
 
 **DATABASES & INFRASTRUCTURE**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,git,github" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,git,github"/>
 
 <br/><br/>
 
@@ -134,7 +134,7 @@ Exploring how smart contracts and conventional backend architecture can work tog
 **Have an interesting engineering problem or opportunity?**
 
 <a href="mailto:jamesbriandungu@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S_TALK-B6FF2E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GET_IN_TOUCH-30313A?style=flat-square&logo=gmail&logoColor=B6FF2E"/>
 </a>
 
 <br/><br/>
