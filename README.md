@@ -1,586 +1,144 @@
-<!-- ========================================================= -->
-
-<!--                       HERO SECTION                        -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:2563eb&height=180&section=header&text=James%20Brian%20Ndung'u&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/github-header.svg" width="100%" alt="James Brian — Software Engineer, Backend and Systems"/>
 
-<br>
+<br/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=700&height=55&lines=Java+%2B+Spring+Boot+Developer;Backend+%7C+APIs+%7C+Databases;Building+systems%2C+not+just+screens;Exploring+Cloud%2C+DevOps+%26+Web3;Building%2C+testing%2C+and+deploying+software" alt="Typing animation" />
-</a>
+**SOFTWARE ENGINEER · BACKEND · SYSTEMS**
 
-<br><br>
+Building software that solves real problems, with an interest in the systems behind it.
 
-<a href="https://github.com/James-oss796">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
+<br/>
+
 <a href="https://www.linkedin.com/in/jamesbrian254">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://gwen-books.vercel.app">
-<img src="https://img.shields.io/badge/GwenBooks-Live-2563EB?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://echo-chatroom-n9ds.onrender.com/">
-<img src="https://img.shields.io/badge/Echo_Chatroom-Live-16A34A?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://koditrack.koditrack.workers.dev">
-<img src="https://img.shields.io/badge/KodiTrack-Live-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LINKEDIN-23262F?style=flat-square&logo=linkedin&logoColor=B6FF2E"/>
 </a>
 &nbsp;
 <a href="mailto:jamesbriandungu@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=James-oss796&style=for-the-badge&color=2563EB&label=PROFILE+VISITS" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-        ┌───────────────────────────────────────────────────┐
-        │                                                   │
-        │   I don't just want to write code.                │
-        │                                                   │
-        │   I want to understand what happens               │
-        │   after the code leaves the editor.               │
-        │                                                   │
-        └───────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## `$ whoami`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,linux,react,ts,solidity" />
-
-<br><br>
-
-**Software Engineer** focused on backend development, systems, and the infrastructure around them.
-
-I build with **Java, Spring Boot, PostgreSQL, React, Docker, and Linux**, while exploring **cloud, DevOps, distributed systems, and blockchain**.
-
-<br>
-
-<a href="https://koditrack.koditrack.workers.dev">
-<img src="https://img.shields.io/badge/TRY_KODITRACK-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EMAIL-23262F?style=flat-square&logo=gmail&logoColor=B6FF2E"/>
 </a>
 &nbsp;
-<a href="https://echo-chatroom-n9ds.onrender.com/">
-<img src="https://img.shields.io/badge/TRY_ECHO_CHATROOM-16A34A?style=for-the-badge" />
-</a>
-&nbsp;
-<a href="https://gwen-books.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE_GWENBOOKS-2563EB?style=for-the-badge" />
+<a href="https://github.com/James-oss796">
+  <img src="https://img.shields.io/badge/GITHUB-23262F?style=flat-square&logo=github&logoColor=B6FF2E"/>
 </a>
 
 </div>
 
 ---
 
-# `$ cat /about-me.txt`
-
-I learn by building.
-
-A project usually starts with a simple question:
-
-> *"Can I actually build this?"*
-
-Then the questions get more interesting:
-
-```text
-How should the system be designed?
-        ↓
-How should the data be stored?
-        ↓
-How should the services communicate?
-        ↓
-What happens when something fails?
-        ↓
-How do I test it?
-        ↓
-How do I package it?
-        ↓
-How do I deploy it?
-```
-
-That's the direction I'm taking my engineering journey.
-
-Not just learning frameworks.
-
-Learning **systems**.
-
----
-
-# `$ ./currently-building`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=720&height=45&lines=%24+building+backend+systems...;%24+learning+Docker+%26+Linux...;%24+connecting+APIs+to+real+databases...;%24+experimenting+with+blockchain...;%24+understanding+what+happens+under+the+hood..." alt="Current work animation" />
-
-</div>
-
-```text
-                    CURRENT DIRECTION
-
-       Software Engineering
-                │
-                ▼
-        Backend Development
-                │
-                ▼
-          Linux + Networking
-                │
-                ▼
-             Docker
-                │
-                ▼
-        Cloud Infrastructure
-                │
-                ▼
-          DevOps / Platform
-```
-
-The goal is not to collect technologies.
-
-The goal is to understand how they fit together.
-
----
-
-# Projects
-
-## `01` — GwenBooks
-
-### A digital book discovery and reading platform
-
-**Live:** [gwen-books.vercel.app](https://gwen-books.vercel.app)
-
-GwenBooks brings book discovery and reading into one application by connecting public book sources.
-
-**Stack**
-
-`Next.js` `TypeScript` `React` `Tailwind CSS` `Drizzle ORM` `PostgreSQL` `REST APIs` `Vercel`
-
-<a href="https://gwen-books.vercel.app">
-<img src="https://img.shields.io/badge/OPEN_GWENBOOKS-2563EB?style=for-the-badge" />
-</a>
-
----
-
-## `02` — Echo Chatroom
-
-### A web-based chatroom application
-
-**Live:** [echo-chatroom-n9ds.onrender.com](https://echo-chatroom-n9ds.onrender.com/)
-
-Echo Chatroom is a web application built with Java and Spring Boot, with a browser-based interface for interacting with chatrooms.
-
-The project takes the application beyond the local development environment and makes it accessible through a live deployment.
-
-**What it demonstrates**
-
-* Java and Spring Boot application development.
-* Web-based client and server integration.
-* Real-time communication using WebSocket technology.
-* Frontend integration with backend endpoints.
-* Application deployment and public access.
-
-**Stack**
-
-`Java 25` `Spring Boot` `WebSocket` `REST APIs` `HTML` `CSS` `JavaScript` `Render`
-
-<a href="https://echo-chatroom-n9ds.onrender.com/">
-<img src="https://img.shields.io/badge/OPEN_LIVE_CHATROOM-16A34A?style=for-the-badge" />
-</a>
-
----
-
-## `03` — KodiTrack
-
-### Rental property and tenancy management
-
-**Live:** [koditrack.koditrack.workers.dev](https://koditrack.koditrack.workers.dev)
-
-KodiTrack is a rental management application designed to help landlords organize property information, units, tenants, leases, rent charges, payments, and maintenance workflows in one place.
-
-**Features**
-
-* **Property management** — Organize rental properties and their units.
-* **Unit management** — Track rental units and their occupancy-related information.
-* **Tenant records** — Maintain tenant information.
-* **Lease management** — Organize tenancy agreements and lease statuses.
-* **Rent tracking** — Manage rent charges and payment records.
-* **Maintenance workflows** — Record maintenance requests and work orders.
-* **Applications and vendors** — Organize rental applications and vendor information.
-* **Dashboard and reporting** — Access a central view of rental operations.
-
-**Stack**
-
-`React` `TypeScript` `Vite` `Hono` `Cloudflare Workers` `Cloudflare D1` `SQLite` `REST APIs`
-
-<a href="https://koditrack.koditrack.workers.dev">
-<img src="https://img.shields.io/badge/OPEN_KODITRACK-F59E0B?style=for-the-badge" />
-</a>
-
----
-
-## `04` — PesaChain
-
-### Blockchain-based microfinance and loan management
-
-A project exploring how blockchain can fit into a conventional software architecture.
-
-The interesting question isn't:
-
-> "Can blockchain be used?"
-
-It is:
-
-> "Where does blockchain actually make sense?"
-
-**Stack**
-
-`Java` `Spring Boot` `PostgreSQL` `React` `Solidity` `Ethereum` `Hardhat` `Ganache` `MetaMask` `Web3.js`
-
----
-
-## `05` — AfyaFlow
-
-### Hospital queue and appointment management
-
-A full-stack system focused on real-world hospital workflows rather than a collection of disconnected CRUD pages.
-
-**Stack**
-
-`Spring Boot` `Spring Security` `MySQL` `React` `Vite` `Tailwind CSS` `Docker`
-
----
-
-## `06` — AttendEase
-
-### Student attendance management
-
-A student attendance system built around actual business rules.
-
-The interesting part isn't the attendance button. It's the logic behind it, including attendance cutoffs and location-aware attendance concepts.
-
-**Stack**
-
-`React` `Vite` `Tailwind CSS`
-
----
-
-# Technology
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,bash,html,css" />
-
-<br><br>
-
-`SQL` · `Solidity`
-
-<br><br>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=spring" />
-
-<br>
-
-`Spring Boot` · `Spring Security` · `Spring Data JPA` · `Hibernate`
-
-`REST APIs` · `WebSocket` · `JWT` · `Maven` · `JUnit`
-
-<br><br>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
-
-<br>
-
-`React` · `Next.js` · `Vite` · `Tailwind CSS` · `shadcn/ui`
-
-<br><br>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-<br>
-
-`PostgreSQL` · `MySQL` · `Neon` · `Drizzle ORM` · `Hibernate` · `pgAdmin`
-
-<br><br>
-
-### Infrastructure & Development
-
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,idea" />
-
-<br>
-
-`Linux` · `Docker` · `Docker Compose` · `Git` · `GitHub`
-
-`VS Code` · `IntelliJ IDEA` · `Postman` · `Docker Desktop` · `Render` · `Vercel` · `Cloudflare Workers`
-
-<br><br>
-
-### Web3
-
-<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
-
-<br>
-
-`Solidity` · `Ethereum` · `Hardhat` · `Ganache`
-
-`MetaMask` · `Web3.js` · `OpenZeppelin` · `Remix`
-
-</div>
-
----
-
-# How I see a system
-
-A feature is only one small part of the picture.
-
-```text
-                          USER
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │  FRONTEND   │
-                    │ React / HTML│
-                    └──────┬──────┘
-                           │
-                          HTTP
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │     API     │
-                    │ REST / WS   │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   BACKEND   │
-                    │Spring Boot  │
-                    └──────┬──────┘
-                           │
-                    ┌──────┴──────┐
-                    ▼             ▼
-                Database     External Services
-                    │
-                    ▼
-                Deployment
-                    │
-                    ▼
-                Linux / Server
-                    │
-                    ▼
-                   USER
-```
-
-I'm increasingly interested in the boundaries between these components.
-
-That's where many of the interesting problems live.
-
----
-
-# Engineering Focus
+## Selected Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Backend
+### 01 / KodiTrack
 
-* Java
-* Spring Boot
-* REST APIs
-* WebSocket communication
-* Spring Security
-* JWT authentication
-* PostgreSQL / MySQL
-* JPA / Hibernate
-* Automated testing
+**Rental property management, rethought.**
+
+A property management platform designed to bring landlords, tenants, properties and rental operations into one system.
+
+`React` `TypeScript` `Hono` `Cloudflare D1`
+
+<a href="https://koditrack.koditrack.workers.dev">
+  <img src="https://img.shields.io/badge/EXPLORE_KODITRACK-B6FF2E?style=for-the-badge&logoColor=23262F"/>
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Infrastructure
+### 02 / GwenBooks
 
-* Linux
-* Bash
-* Docker
-* Docker Compose
-* Networking
-* Git / GitHub
-* Application environments
-* Deployment fundamentals
+**A better way to discover and read books.**
+
+A digital book discovery and reading platform combining modern web technologies with persistent data and application services.
+
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle`
+
+<a href="https://gwen-books.vercel.app">
+  <img src="https://img.shields.io/badge/EXPLORE_GWENBOOKS-B6FF2E?style=for-the-badge&logoColor=23262F"/>
+</a>
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Systems
+### 03 / Echo Chatroom
 
-* API design
-* Database design
-* System architecture
-* Authentication
-* Application reliability
-* Distributed systems fundamentals
+**Real-time communication on the web.**
+
+A Java-based chat application exploring WebSocket communication and the integration of frontend clients with backend services.
+
+`Java` `Spring Boot` `WebSocket` `JavaScript`
+
+<a href="https://echo-chatroom-n9ds.onrender.com/">
+  <img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-B6FF2E?style=for-the-badge&logoColor=23262F"/>
+</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Exploring Next
+### 04 / PesaChain
 
-* Cloud infrastructure
-* CI/CD
-* Kubernetes
-* Infrastructure as Code
-* Production engineering
+**Blockchain meets microfinance.**
+
+Exploring how smart contracts and conventional backend architecture can work together to support transparent loan management.
+
+`Spring Boot` `PostgreSQL` `Solidity` `Ethereum`
 
 </td>
 </tr>
 </table>
 
-The goal is not to collect technologies.
-
-It's to understand **how the pieces work together**.
-
 ---
 
-# Engineering questions
-
-<details>
-<summary><b>What actually happens after I press "Login"?</b></summary>
-
-Browser → DNS → network → HTTP → API → authentication → database → response → browser.
-
-I want to understand every step rather than treating authentication as a library call.
-
-</details>
-
-<details>
-<summary><b>What happens when the database disappears?</b></summary>
-
-Connection pools, timeouts, transactions, retries, error handling, logging and application behaviour all become important.
-
-This is where an application stops being a tutorial and starts behaving like a system.
-
-</details>
-
-<details>
-<summary><b>Why Docker?</b></summary>
-
-Because "it works on my machine" is not a deployment strategy.
-
-I'm learning containers, images, networking, volumes, environment configuration and how these pieces change the development workflow.
-
-</details>
-
-<details>
-<summary><b>Where does blockchain belong?</b></summary>
-
-Not everywhere.
-
-I'm interested in the situations where verifiable shared state and smart contracts provide something useful beyond what a conventional backend and database can provide.
-
-</details>
-
----
-
-# Contribution activity
+## Technology
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-alt="GitHub contribution activity"
-width="90%" />
+**BACKEND & LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=java,spring,js,ts,python,c" />
+
+<br/><br/>
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+
+<br/><br/>
+
+**DATABASES & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,git,github" />
+
+<br/><br/>
+
+**ALSO WORKING WITH**
+
+`Spring Security` · `Hibernate` · `REST APIs` · `WebSocket` · `Solidity` · `Hardhat` · `Cloudflare Workers` · `Bash`
 
 </div>
 
 ---
 
-# A few things outside the stack
+## Currently Exploring
 
-I also spend time around:
-
-`Networking` · `System Design` · `UI Design` · `Technical Documentation`
-
-And occasionally:
-
-`Figma` · `Canva`
-
-because even backend engineers sometimes have to make things look good.
-
----
-
-# `$ git status`
-
-```text
-On branch main
-
-Your engineering journey is still in progress.
-
-modified:
-    backend-skills
-    system-design
-    linux
-    cloud-knowledge
-
-untracked:
-    distributed-systems
-    production-experience
-
-nothing to commit yet.
-
-keep building.
-```
+`System Design` · `Docker` · `Linux` · `Cloud Infrastructure` · `DevOps` · `Distributed Systems`
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1d4ed8,100:111827&height=120&section=footer" width="100%"/>
+**Have an interesting engineering problem or opportunity?**
 
-### James Brian Ndung'u
+<a href="mailto:jamesbriandungu@gmail.com">
+  <img src="https://img.shields.io/badge/LET'S_TALK-B6FF2E?style=for-the-badge"/>
+</a>
 
-`Software Engineer` · `Backend` · `Systems`
+<br/><br/>
 
-<a href="mailto:jamesbriandungu@gmail.com">Email</a>
-  ·   <a href="https://github.com/James-oss796">GitHub</a>
-  ·   <a href="https://www.linkedin.com/in/jamesbrian254">LinkedIn</a>
-  ·   <a href="https://gwen-books.vercel.app">GwenBooks</a>
-  ·   <a href="https://echo-chatroom-n9ds.onrender.com/">Echo Chatroom</a>
-  ·   <a href="https://koditrack.koditrack.workers.dev">KodiTrack</a>
-
-<br><br>
-
-<sub>Still building. Still figuring things out.</sub>
+<sub>JAMES BRIAN NDUNG'U · SOFTWARE ENGINEER</sub>
 
 </div>
